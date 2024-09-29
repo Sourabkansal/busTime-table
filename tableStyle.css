@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+     --nav-color: #1995AD;
+     --color-2: #A1D6E2;
+     --COLOR-3: #F1F1F2;
+}
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+h2 {
+     color: #BE1E2d;
+     text-align: center;
+     font-family: "Roboto Slab", serif;
+     font-optical-sizing: auto;
+     font-weight: 500;
+     font-style: normal;
+     margin-top: 10px;
+}
+
+table,
+th,
+td {
+     border: 1px solid black;
+     margin-left: 13px;
+}
+
+table {
+     margin: auto;
+     margin-bottom: 50px;
+}
+.TimeTableSec{
+    
+          height: auto;
+          width: 80%;
+          background-color: var(--color-2);
+          margin: auto;
+          margin-top: 30px;
+          border-radius: 20px;
+          padding-top: 20px;
+          padding-bottom: 1px;
+     
+     
+}
