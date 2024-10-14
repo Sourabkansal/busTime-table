@@ -27,9 +27,6 @@
      height: 100%;
      width: 100%;
      background-color: transparent;
-     margin-top: 30px;
-     margin-bottom: 30px;
-    
 }
 
 ul {
@@ -111,7 +108,8 @@ span {
 }
 
 .heroSec {
-     height: 370px;
+     /* height: 370px; */
+     padding-bottom: 40px;
      width: 90%;
      background-color: var(--color-2);
      margin: auto;
