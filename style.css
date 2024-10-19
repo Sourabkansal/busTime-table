@@ -3,7 +3,8 @@
 
 
 body,html{
-     overflow: hidden !important;
+     overflow-x: hidden;
+     height: 100%;
 }
 :root {
      --nav-color: #1995AD;
